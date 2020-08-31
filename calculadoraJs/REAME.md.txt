@@ -1,0 +1,1 @@
+deverá subir um servidor lcal para rodar a aplicação
